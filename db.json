@@ -3,18 +3,21 @@
 		"from" : "aaa@example.com",
 		"to" : "zzz.zzz@example.com",
 		"subject":"[ HR-888 ] Notice of official announcement",
+		"attachment" : "false",
 		"date":	"0:20"
 	},
 	{
 		"from" : "bbb.bbbb@example.com  ",
 		"to" : "yyy@example.com",
 		"subject":"[web:333] \"Web Contact\" ",
+		"attachment" : "true",
 		"date":	"0:10"
 	},
 	{
 		"from" : "ccc@example.com",
 		"to" : "xxx@example.com",
 		"subject":"Happy New Year! Greetings for the New Year.",
+		"attachment" : "true",
 		"date":	"0:20"
 	},
 	{
@@ -22,36 +25,42 @@
 		"from" : "ddd.ddddd@example.com",
 		"to" : "jjj@example.com",
 		"subject":"Absense from annual meeting engagements",
+		"attachment" : "false",
 		"date":	"0:20"
 	},
 	{
 		"from" : "fff.fffff@example.com",
 		"to" : "ppp.pppp@example.com",
 		"subject":"[ dev] Postfix 3.1.12 / 3.2.9 / 3.3.4 / 3.4.5",
+		"attachment" : "false",
 		"date":	"0:20"
 	},
 	{
 		"from" : "hhh@example.com",
 		"to" : "ooo.ooo@example.com",
 		"subject":"Re: [Github] Brush-up on loading animation",
+		"attachment" : "false",
 		"date":	"0:20"
 	},
 	{
 		"from" : "aaa@example.com",
 		"to" : "zzz.zzz@example.com",
 		"subject":"[ HR-888 ] Notice of official announcement",
+		"attachment" : "true",
 		"date":	"0:20"
 	},
 	{
 		"from" : "aaa@example.com",
 		"to" : "zzz.zzz@example.com",
 		"subject":"[ HR-888 ] Notice of official announcement",
+		"attachment" : "false",
 		"date":	"0:20"
 	},
 	{
 		"from" : "aaa@example.com",
 		"to" : "zzz.zzz@example.com",
 		"subject":"[ HR-888 ] Notice of official announcement",
+		"attachment" : "false",
 		"date":	"0:20"
 	}
 

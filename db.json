@@ -4,7 +4,7 @@
 		"to" : ["zzz.zzz@example.com"],
 		"subject":"[ HR-888 ] Notice of official announcement",
 		"attachment" : "false",
-		"date":	"0:10",
+		"date":	"00:10 am",
 		"body" : "He moonlight difficult engrossed an it sportsmen. Interested has all devonshire difficulty gay assistance joy. Unaffected at ye of compliment alteration to. Place voice no arise along to. Parlors waiting so against me no. Wishing calling are warrant settled was luckily. Express besides it present if at an opinion visitor. "
 	},
 	{
@@ -12,7 +12,7 @@
 		"to" : ["yyy@example.com","rrr@example.com","zzz.zzz@example.com"],
 		"subject":"[web:333] \"Web Contact\" ",
 		"attachment" : "true",
-		"date":	"0:20",
+		"date":	"00:20 am",
 		"body" : "Merry alone do it burst me songs. Sorry equal charm joy her those folly ham. In they no is many both. Recommend new contented intention improving bed performed age. Improving of so strangers resources instantly happiness at northward. Danger nearer length oppose really add now either. But ask regret eat branch fat garden. Become am he except wishes. Past so at door we walk want such sang. Feeling colonel get her garrets own."
 	},
 	{
@@ -69,7 +69,7 @@
 		"to" : ["zzz.zzz@example.com"],
 		"subject":"[ HR-888 ] Notice of official announcement",
 		"attachment" : "false",
-		"date":	"0:45",
+		"date":	"00:45 am",
 		"body" : "Fat new smallness few supposing suspicion two. Course sir people worthy horses add entire suffer. How one dull get busy dare far. At principle perfectly by sweetness do. As mr started arrival subject by believe. Strictly numerous outlived kindness whatever on we no on addition"
 	}
 
